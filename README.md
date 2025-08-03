@@ -10,7 +10,7 @@
 - 📄 **Instant PDF Parsing & Understanding**
 - 🧠 **LLM-Powered Answering** (LLaMA, GPT-4, Gemini, Claude)
 - 📦 **Local or Cloud Deployment**
-- 🗃️ **Embedding + Retrieval using Vector DB (FAISS/ChromaDB)**
+- 🗃️ **Embedding + Retrieval using Vector DB (PineCone)**
 - 💬 **Smart, Contextual Conversations with PDFs**
 
 ---
@@ -28,7 +28,7 @@
 
 - **n8n** – Automation framework  
 - **LangChain** – LLM orchestration and vector search  
-- **FAISS / ChromaDB** – Vector databases  
+- **PineCone** – Vector databases  
 - **LLaMA / GPT / Gemini** – AI language models  
 - **Python** – PDF parsing and embedding backend  
 - **Streamlit / FastAPI (optional)** – Interface or API layer
@@ -37,8 +37,4 @@
 
 ## 🛠️ Setup Instructions
 
-### 1. Install n8n
 
-```bash
-npm install n8n -g
-n8n start
